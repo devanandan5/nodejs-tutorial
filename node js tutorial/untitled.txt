@@ -1,0 +1,2 @@
+npm is node package manager
+npmjs.com for more info
